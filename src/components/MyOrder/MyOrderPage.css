@@ -1,0 +1,10 @@
+.myorder_page {
+  justify-content: center;
+  width: 50%;
+  margin: 0 auto;
+  padding: 32px 48px;
+}
+
+.cart_p {
+  background-color: #ffff00;
+}
